@@ -16,7 +16,7 @@ This version of Tetris is functional but may contain some bugs. Contributions fo
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/Tetris.git
+   git clone https://github.com/RapidOnGfuel/Tetris
    ```
 2. Navigate to the Tetris directory:
    ```bash
@@ -27,7 +27,6 @@ This version of Tetris is functional but may contain some bugs. Contributions fo
 ## Contributing
 
 We welcome contributions! If you have ideas for improvements or new features, feel free to fork the repository and submit a pull request. Please ensure your code adheres to the existing style and is well-documented.
-
 
 ---
 
